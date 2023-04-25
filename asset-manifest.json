@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93b02d51.css",
+    "main.js": "/static/js/main.c291b30b.js",
+    "static/js/787.126ab0b1.chunk.js": "/static/js/787.126ab0b1.chunk.js",
+    "static/media/Sanchez-Regular.ttf": "/static/media/Sanchez-Regular.420a6bbe7d53172d7657.ttf",
+    "index.html": "/index.html",
+    "main.93b02d51.css.map": "/static/css/main.93b02d51.css.map",
+    "main.c291b30b.js.map": "/static/js/main.c291b30b.js.map",
+    "787.126ab0b1.chunk.js.map": "/static/js/787.126ab0b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b02d51.css",
+    "static/js/main.c291b30b.js"
+  ]
+}
