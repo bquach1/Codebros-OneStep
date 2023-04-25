@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.93b02d51.css",
-    "main.js": "/static/js/main.c291b30b.js",
-    "static/js/787.126ab0b1.chunk.js": "/static/js/787.126ab0b1.chunk.js",
-    "static/media/Sanchez-Regular.ttf": "/static/media/Sanchez-Regular.420a6bbe7d53172d7657.ttf",
-    "index.html": "/index.html",
-    "main.93b02d51.css.map": "/static/css/main.93b02d51.css.map",
-    "main.c291b30b.js.map": "/static/js/main.c291b30b.js.map",
-    "787.126ab0b1.chunk.js.map": "/static/js/787.126ab0b1.chunk.js.map"
+    "main.css": "/Codebros-OneStep/static/css/main.b6a1a0c1.css",
+    "main.js": "/Codebros-OneStep/static/js/main.bb71ce35.js",
+    "static/js/787.126ab0b1.chunk.js": "/Codebros-OneStep/static/js/787.126ab0b1.chunk.js",
+    "static/media/Sanchez-Regular.ttf": "/Codebros-OneStep/static/media/Sanchez-Regular.420a6bbe7d53172d7657.ttf",
+    "index.html": "/Codebros-OneStep/index.html",
+    "main.b6a1a0c1.css.map": "/Codebros-OneStep/static/css/main.b6a1a0c1.css.map",
+    "main.bb71ce35.js.map": "/Codebros-OneStep/static/js/main.bb71ce35.js.map",
+    "787.126ab0b1.chunk.js.map": "/Codebros-OneStep/static/js/787.126ab0b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b02d51.css",
-    "static/js/main.c291b30b.js"
+    "static/css/main.b6a1a0c1.css",
+    "static/js/main.bb71ce35.js"
   ]
 }
